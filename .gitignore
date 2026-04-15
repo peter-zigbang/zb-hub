@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow root-level items
+!/*
+
+# Allow docs/ inside first-level subdirs
+!*/docs/
+!*/docs/*
+
+# Ignore auto-generated files
+.DS_Store
+**/.DS_Store
+
+# Ignore sensitive files
+**/keys.md
