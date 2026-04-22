@@ -1,0 +1,23 @@
+B2C-50350-firebase/docs/firebase-web-remote-config.md
+  a431516c3f6da30b 102-216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "e087e350c81037778787363a4f855da7fd78e412",
+  "prompts": {
+    "a431516c3f6da30b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dad96f7a-e779-4543-b3d1-6bdc29fc4f60",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Peter Lee (이장연)",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 11,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    }
+  }
+}
